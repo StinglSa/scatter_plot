@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="04-utils.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="04-utils.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/code/04-utils.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="71" selection-start="1221" selection-end="1259" vertical-scroll-proportion="0.0" vertical-offset="628" max-vertical-offset="2176">
+            <state line="35" column="0" selection-start="375" selection-end="897" vertical-scroll-proportion="0.6881119" vertical-offset="103" max-vertical-offset="2176">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="04-utils_hd.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/04-utils_hd.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="71" selection-start="1259" selection-end="1259" vertical-scroll-proportion="0.0" vertical-offset="413" max-vertical-offset="2176">
+            <state line="35" column="0" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0" vertical-offset="413" max-vertical-offset="2176">
               <folding />
             </state>
           </provider>
@@ -86,10 +86,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01-setup_hd.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="01-setup_hd.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/01-setup_hd.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="22" selection-start="451" selection-end="451" vertical-scroll-proportion="0.64195806" vertical-offset="0" max-vertical-offset="2397">
+            <state line="27" column="22" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="2397">
               <folding />
             </state>
           </provider>
@@ -122,10 +122,10 @@
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index_hd.html" />
-        <option value="$PROJECT_DIR$/code/04-utils.js" />
-        <option value="$PROJECT_DIR$/code/04-utils_hd.js" />
         <option value="$PROJECT_DIR$/code/01-setup.js" />
         <option value="$PROJECT_DIR$/code/01-setup_hd.js" />
+        <option value="$PROJECT_DIR$/code/04-utils.js" />
+        <option value="$PROJECT_DIR$/code/04-utils_hd.js" />
       </list>
     </option>
   </component>
@@ -383,20 +383,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/04-utils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="71" selection-start="1221" selection-end="1259" vertical-scroll-proportion="0.0" vertical-offset="628" max-vertical-offset="2176">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/04-utils_hd.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="71" selection-start="1259" selection-end="1259" vertical-scroll-proportion="0.0" vertical-offset="413" max-vertical-offset="2176">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/01-setup.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="24" selection-start="453" selection-end="453" vertical-scroll-proportion="-9.2" vertical-offset="229" max-vertical-offset="2516">
@@ -406,7 +392,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code/01-setup_hd.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="22" selection-start="451" selection-end="451" vertical-scroll-proportion="0.64195806" vertical-offset="0" max-vertical-offset="2397">
+        <state line="27" column="22" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="2397">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/04-utils_hd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0" vertical-offset="413" max-vertical-offset="2176">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/04-utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="375" selection-end="897" vertical-scroll-proportion="0.6881119" vertical-offset="103" max-vertical-offset="2176">
           <folding />
         </state>
       </provider>

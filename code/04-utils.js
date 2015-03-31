@@ -24,7 +24,7 @@ window.onload = function () {
 
     var gui = new dat.GUI();
 
-    gui.add(text, "seriesY", ['attack','damage', 'ap', 'bonusInf', 'bonusCav',  'prize' , 'defense', 'morale', 'charge', 'armour' , 'health' , 'ammo', 'missiledamage', 'range']).onChange(function (newValue) {
+    gui.add(text, "seriesY", ['attack','damage', 'ap', 'bonusInf', 'bonusCav',  'prize' , 'defense', 'morale', 'charge', 'armour' , 'health' , 'ammo', 'missiledamage', 'range']).name('Stats Y').onChange(function (newValue) {
 
         seriesY = newValue;
 
@@ -32,7 +32,7 @@ window.onload = function () {
 
     });
 
-    gui.add(text, "seriesX", [ 'attack' ,'damage', 'ap', 'bonusInf', 'bonusCav' , 'prize' , 'defense', 'morale', 'charge', 'armour' ,'factionunits', 'health' , 'ammo', 'missiledamage', 'range' ]).onChange(function (newValue) {
+    gui.add(text, "seriesX", [ 'attack' ,'damage', 'ap', 'bonusInf', 'bonusCav' , 'prize' , 'defense', 'morale', 'charge', 'armour' ,'factionunits', 'health' , 'ammo', 'missiledamage', 'range' ]).name('Stats X').onChange(function (newValue) {
 
         seriesX = newValue;
 
