@@ -1,31 +1,18 @@
 body {
 
     font: 12px sans-serif;
-
-
-
 	background-color: #545454;
 }
-
 
 .axis text {
 
     fill: lightgray;
-
 }
 
 .legend text{
 
-    fill: lightgray;
+    fill: gray;
 }
-
-.label text{
-
-    fill: lightgray;
-}
-
-
-
 
 .axis path,
 .axis line {
