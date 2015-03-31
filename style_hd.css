@@ -1,0 +1,77 @@
+body {
+
+    font: 12px sans-serif;
+	background-color: #545454;
+}
+
+.axis path,
+.axis line {
+
+    fill: none;
+
+    stroke: #000;
+
+    shape-rendering: crispEdges;
+
+}
+
+.dot {
+
+    stroke: #000;
+
+}
+
+.tooltip {
+
+    position: absolute;
+
+    width: 156px;
+
+    height: auto;
+
+    padding: 10px;
+
+    background-color: lightgrey;
+
+    -webkit-border-radius: 10px;
+
+    -moz-border-radius: 10px;
+
+	-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 2.0);
+
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 2.0);
+
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 2.0);
+
+  	overflow: hidden;
+
+    pointer-events: none;
+
+}
+
+h1 {
+
+    margin-top: 10px;
+
+    margin-left: 40px;
+
+    color: red;
+	
+	text-shadow: 2px 2px 2px rgba(0,0,0,1);
+}
+
+h3 {
+
+    margin-top: 5px;
+
+    margin-left: 40px;
+
+    color: #000000;
+}
+
+h5 {
+
+    margin-top: 10px;
+
+    margin-left: 40px;
+}
