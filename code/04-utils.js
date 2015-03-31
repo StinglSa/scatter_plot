@@ -47,7 +47,7 @@ window.onload = function () {
 
     });*/
 
-	gui.add(text, "unitStats", ['vers/att_2_dlc.csv','vers/att_2.csv','vers/att_1.csv']).onChange(function (newValue) {
+	gui.add(text, "unitStats", ['vers/2f.csv','vers/2.csv','vers/1.csv']).name('Patch').onChange(function (newValue) {
 
         faction_before = unitStats;
 

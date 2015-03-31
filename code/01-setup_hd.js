@@ -25,7 +25,7 @@ var seriesX = "factionunits",
 
     toolTipText = "unit",
 
-    unitStats = "vers/att_2_dlc.csv",
+    unitStats = "vers/2f.csv",
 
     inf_mel = "circle",
 
