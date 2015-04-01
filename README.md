@@ -18,5 +18,4 @@
 **Wanted additional Features**
 
 * show third dimension like costs by Color brightness
-* save or show unit stats by klick on point in right panel 
-* 
+* save or show unit stats by click on point in right panel 
